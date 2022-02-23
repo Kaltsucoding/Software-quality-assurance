@@ -1,1 +1,1 @@
-Here are some test cases examples from 2021 software project called Future Factory or WIMMA Lab Forum project.
+Here are some test cases examples from 2021 software project called Future Factory or WIMMA Lab Conduit project. Test cases are implemented by manual method. The test management system is TestLink where the all documents come from; test specifications, test plans, executions and reports.
